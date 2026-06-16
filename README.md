@@ -31,13 +31,11 @@ boss-said-analyze-this/
 
 ## 安装方式
 
-把整个仓库目录放到 Codex 可读取的 skills 目录中，例如：
+跟 Agent 说：
 
-```bash
-~/.codex/skills/boss-said-analyze-this/
+```text
+帮我安装这个skill：[KarenD006/boss-said-analyze-this](https://github.com/KarenD006/boss-said-analyze-this)
 ```
-
-或在你的工作区中作为本地 skill 使用。
 
 ## 示例调用
 
@@ -65,4 +63,4 @@ boss-said-analyze-this/
 
 ## License
 
-未指定。发布到公开仓库前，请按你的需要补充 License。
+MIT License
