@@ -34,7 +34,7 @@ boss-said-analyze-this/
 跟 Agent 说：
 
 ```text
-帮我安装这个skill：[KarenD006/boss-said-analyze-this](https://github.com/KarenD006/boss-said-analyze-this)
+帮我安装这个skill：https://github.com/KarenD006/boss-said-analyze-this
 ```
 
 ## 示例调用
